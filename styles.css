@@ -1,0 +1,45 @@
+header {
+    font-family: 'Segoe UI';
+  }
+  
+  header{
+    background: #6ba1d7;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  #logo-header {
+    font-size: 30px;
+  }
+
+  ul { 
+    display:flex
+    list-style none;
+
+  }
+  
+  
+  a {
+    text-decoration: none;
+    color: white;
+  }
+  
+  main {
+    background-color: #000000;
+    padding: 16px;
+    color: white;
+    font-family: 'Segoe UI';
+  }
+  
+  img {
+    margin: 3rem;
+  }
+  
+
+  footer{
+    background: #6ba1d7;
+    color: white;
+    padding: 16px;
+    text-decoration: none;
+  }
