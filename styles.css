@@ -1,5 +1,5 @@
 header {
-    font-family: 'Segoe UI';
+    font-family: 'Segoe UI''sans-serif';
   }
   
   header{
@@ -32,7 +32,7 @@ header {
     background-color: #000000;
     padding: 16px;
     color: white;
-    font-family: 'Segoe UI';
+    font-family: 'Segoe UI''sans-serif';
   }
   
   img {
