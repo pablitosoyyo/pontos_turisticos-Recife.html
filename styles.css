@@ -7,16 +7,19 @@ header {
     color: white;
     padding: 16px;
     text-decoration: none;
+    align-items: center;
+    
+  
+  
   }
   
   #logo-header {
     font-size: 30px;
   }
 
-  ul { 
-    display:flex
-    list-style none;
-
+  ul {
+    display: flex;
+    justify-content: space-evenly
   }
   
   
